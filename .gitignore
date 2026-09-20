@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.zed/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
