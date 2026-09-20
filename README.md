@@ -70,13 +70,13 @@ Stable - v1.0.0
 
 ## Limitations
 
-- DOCX page count is estimated when explicit pafge breaks are unavailable.
+- DOCX page count is estimated when explicit page breaks are unavailable.
 - Maximum file size: 20 MB
 - Processing is performed locally in the browser
 
 ## License
 
-MIT
+MIT License
 
 
 
