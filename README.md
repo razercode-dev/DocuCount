@@ -18,6 +18,17 @@ DocuCount is a lightweight web-based PDF and DOCX document analyzer.
 - Drag and drop upload
 - Responsive dark interface
 
+## Preview
+
+### Desktop
+![DocuCount Desktop](assets/screenshots/desktop.png)
+
+### Mobile
+![DocuCount Mobile](assets/screenshots/mobile.png)
+
+### Document Analysis
+![DocuCount Analysis](assets/screenshots/analysis.png)
+
 ## Technologies
 
 - HTML5
